@@ -9,5 +9,7 @@ in this the mp3 file will converted to the .wav file by the java media package f
 
 
 to use your API key use these commands in the same terminal 
+
 $env:GEMINI_API_KEY="your-real-api-key"
+
 .\mvnw spring-boot:run
