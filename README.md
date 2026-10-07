@@ -9,8 +9,11 @@ In this project, the .mp3 file will be converted to a .wav file by the Java medi
 To set up your API key and run:
 
 $env:GEMINI_API_KEY="your-real-api-key"
-.\mvnw spring-boot:run
 
+
+```
+.\mvnw spring-boot:run
+```
 
 ```
 cd speach-to-text-frontend
