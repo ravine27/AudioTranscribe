@@ -15,6 +15,7 @@ $env:GEMINI_API_KEY="your-real-api-key"
 .\mvnw spring-boot:run
 ```
 
+For the frontend setup
 ```
 cd speach-to-text-frontend
 npm install
